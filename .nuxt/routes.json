@@ -1,0 +1,56 @@
+[
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "C:\\\\git\\\\streamfest_front\\\\pages\\\\cart.vue",
+    "chunkName": "pages/cart"
+  },
+  {
+    "name": "checkout",
+    "path": "/checkout",
+    "component": "C:\\\\git\\\\streamfest_front\\\\pages\\\\checkout.vue",
+    "chunkName": "pages/checkout"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "C:\\\\git\\\\streamfest_front\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq"
+  },
+  {
+    "name": "how-to",
+    "path": "/how-to",
+    "component": "C:\\\\git\\\\streamfest_front\\\\pages\\\\how-to.vue",
+    "chunkName": "pages/how-to"
+  },
+  {
+    "name": "location",
+    "path": "/location",
+    "component": "C:\\\\git\\\\streamfest_front\\\\pages\\\\location.vue",
+    "chunkName": "pages/location"
+  },
+  {
+    "name": "streamers",
+    "path": "/streamers",
+    "component": "C:\\\\git\\\\streamfest_front\\\\pages\\\\streamers\\\\index.vue",
+    "chunkName": "pages/streamers/index"
+  },
+  {
+    "name": "streamers-streamer_slug",
+    "path": "/streamers/:streamer_slug",
+    "component": "C:\\\\git\\\\streamfest_front\\\\pages\\\\streamers\\\\_streamer_slug.vue",
+    "chunkName": "pages/streamers/_streamer_slug"
+  },
+  {
+    "name": "ticket-uuid",
+    "path": "/ticket/:uuid?",
+    "component": "C:\\\\git\\\\streamfest_front\\\\pages\\\\ticket\\\\_uuid.vue",
+    "chunkName": "pages/ticket/_uuid"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\git\\\\streamfest_front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "Footer": {
+    "description": "Auto imported from C:/git/streamfest_front/components/footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from C:/git/streamfest_front/components/footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from C:/git/streamfest_front/components/header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from C:/git/streamfest_front/components/header.vue"
+  },
+  "StreamerCard": {
+    "description": "Auto imported from C:/git/streamfest_front/components/StreamerCard.vue"
+  },
+  "LazyStreamerCard": {
+    "description": "Auto imported from C:/git/streamfest_front/components/StreamerCard.vue"
+  }
+}
